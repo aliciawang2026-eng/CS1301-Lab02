@@ -1,0 +1,16 @@
+{
+    "album_sales": [
+        {"group": "BTS", "album": "Proof", "month": "Jan", "sales_thousands": 450, "company": "HYBE"},
+    {"group": "SEVENTEEN", "album": "FML", "month": "Jan", "sales_thousands": 380, "company": "HYBE"},
+    {"group": "Stray Kids", "album": "5-STAR", "month": "Jan", "sales_thousands": 310, "company": "JYP"},
+    {"group": "BLACKPINK", "album": "BORN PINK", "month": "Feb", "sales_thousands": 290, "company": "YG"},
+    {"group": "TWICE", "album": "READY TO BE", "month": "Feb", "sales_thousands": 210, "company": "JYP"},
+    {"group": "NewJeans", "album": "Get Up", "month": "Feb", "sales_thousands": 340, "company": "HYBE"},
+    {"group": "BTS", "album": "Proof", "month": "Mar", "sales_thousands": 520, "company": "HYBE"},
+    {"group": "SEVENTEEN", "album": "FML", "month": "Mar", "sales_thousands": 410, "company": "HYBE"},
+    {"group": "Stray Kids", "album": "5-STAR", "month": "Mar", "sales_thousands": 360, "company": "JYP"},
+    {"group": "BLACKPINK", "album": "BORN PINK", "month": "Apr", "sales_thousands": 310, "company": "YG"},
+    {"group": "TWICE", "album": "READY TO BE", "month": "Apr", "sales_thousands": 250, "company": "JYP"},
+    {"group": "NewJeans", "album": "Get Up", "month": "Apr", "sales_thousands": 390, "company": "HYBE"}
+  ]
+}
